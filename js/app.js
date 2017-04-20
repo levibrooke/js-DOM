@@ -4,17 +4,27 @@
 
 Tay-Tay*/
 
+var replaceNameOne = document.getElementById("name1");
+
+replaceNameOne.innerHTML = "Tay-Tay";
 
 
-/*2. Replace the n/a with the following: 
+/*2. Replace the n/a with the following:
 
 Project Manager*/
 
+var replacePositionTwo = document.getElementById("position2");
+
+replacePositionTwo.innerHTML = "Project Manager";
 
 
 /*3. Replace the n/a with the following:
 
 Concatenation*/
+
+var replaceAliasThree = document.getElementById("alias3");
+
+replaceAliasThree.innerHTML = "Concatenation";
 
 
 
@@ -31,7 +41,7 @@ Concatenation*/
 
 Append this div element to the nameBox div*/
 
- 
+
 
 /*7. Create a div element for Grimmace and give it an id of "alias8". Inside this div element, give it the contents of "The Purple Monster".
 
